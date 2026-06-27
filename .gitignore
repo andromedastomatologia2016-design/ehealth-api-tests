@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+# Playwright
+playwright-report/
+test-results/
+playwright/.cache/
+
+# Env files (можуть містити секрети)
+.env
+.env.local
+
+# OS
+.DS_Store
